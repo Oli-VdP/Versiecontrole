@@ -8,3 +8,4 @@
 - inloggen in github
 - publish branch
 - sync / push
+- pull
